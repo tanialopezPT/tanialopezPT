@@ -2,7 +2,7 @@
 - 👀 Former Physical Therapist turned Front End Developer
 - 🌱 I’m currently working on a few projects that include a passion project website and a client redesign. 
 - 🪴I love all things succulents, and a good trip to the beach. 
-- 💻 Continually learning. 
+- 💻 Always learning. 
  
 
 <!---
