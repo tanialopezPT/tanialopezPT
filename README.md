@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript**
 
-- 👨‍💻 All of my projects are available at [[tanialopezPT.github.io](https://tanialopezpt.github.io)]([tanialopezPT.github.io](https://tanialopezpt.github.io))
+- 👨‍💻 All of my projects are available at [[tanialopezPT.github.io](https://tanialopezpt.github.io)]
 
 - 📫 How to reach me **taniadag5@gmail.com**
 
