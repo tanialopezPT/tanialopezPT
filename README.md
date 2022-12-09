@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **taniadag5@gmail.com**
 
-- ⚡ Fun fact **I'm a Physical Therapist => Developer**
+- ⚡ Fun fact **I'm a Physical Therapist turned Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
